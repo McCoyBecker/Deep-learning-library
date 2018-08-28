@@ -1,0 +1,1 @@
+This directory is for test scripts. To use a test script, please import it back to the main directory.

@@ -1,0 +1,6 @@
+Required dependencies:
+
+TensorFlow
+NumPy
+SciPy
+Matplotlib
