@@ -1,4 +1,4 @@
-## A deep learning library implemented using NumPy
+# A deep learning library implemented using NumPy
 
 This is a NumPy-based library used to implement a deep convolutional neural network. The network is applied to the MNIST data set, which is acquired using TensorFlow/Keras.
 
